@@ -1,0 +1,32 @@
+{
+	"layers": [
+		{
+			"type": "LayerGroup",
+			"title": "二郎",
+			"iconUrl": "",
+			"entries": [
+				{
+					"type": "LayerGroup",
+					"title": "二郎",
+					"open": false,
+					"toggleall": false,
+					"entries": [
+						{
+							"type": "Layer",
+							"id": "jiro",
+							"title": "jiro",
+							"iconUrl": "./layers/jiro.png",
+							"url": "./layers/jiro.kml",
+							"subdomains": "",
+							"attribution": "",
+							"cocotile": false,
+							"html": ""
+						}
+					]
+				}
+			],
+			"open": false,
+			"toggleall": false
+		}
+	]
+}

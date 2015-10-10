@@ -1903,6 +1903,11 @@ GSI.QueryParams = L.Class.extend( {
 	_initLayerList : function()
 	{
 		this._layers = [];
+
+		//初期二郎
+	  if ( this.params["ls"] ){
+	  }else{this.params["ls"] = "jiro"}
+
 		if ( this.params["ls"] )
 		{
 			var disp = this.params["disp"];

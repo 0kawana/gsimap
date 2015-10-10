@@ -1,0 +1,324 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+  <Document>
+    <Style id="SYMBOL_Style1">
+      <IconStyle>
+        <Icon>
+          <href>./layers/jiro.png</href>
+        </Icon>
+        <scale>0.7</scale>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>ラーメン二郎 三田本店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう みたほんてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.741647,35.64806</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 仙川店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう せんがわてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.583884,35.661768</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 目黒店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう めぐろてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.707111,35.634201</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 歌舞伎町店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう かぶきちょうてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.701907,35.695831</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 品川店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう しながわてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.743052,35.62395</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 新宿小滝橋通り店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう しんじゅくおたきばしどおりてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.698259,35.696358</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 環七新代田店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう かんななしんだいたてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.660413,35.661908</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 八王子野猿街道店２</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう はちおうじやえんかいどうてん２</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.401328,35.629479</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 池袋東口店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう いけぶくろひがしぐちてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.713923,35.728255</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 新小金井街道店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう しんこがねいかいどうてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.496192,35.70842</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 亀戸店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう かめいどてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.826689,35.701917</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 京急川崎店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう けいきゅうかわさきてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.705212,35.53495</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 府中店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう ふちゅうてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.477283,35.672005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 松戸駅前店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう まつどえきまえてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.899264,35.785974</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 めじろ台法政大学前店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう めじろだいほうせいだいがくまえてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.310396,35.62947</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 荻窪店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう おぎくぼてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.626322,35.703633,</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 上野毛店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう かみのげてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.638993,35.612433</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 京成大久保店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう けいせいおおくぼてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>140.049607,35.691535</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 環七一之江店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう かんなないちのえてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.881953,35.684085</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 相模大野店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう さがみおおのてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.432876,35.529982</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 横浜関内店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう よこはまかんないてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.630748,35.441945</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 神田神保町店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう かんだじんぼうちょうてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.756474,35.69641</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 小岩店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう こいわてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.880043,35.734935</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 ひばりヶ丘駅前店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう ひばりがおかえきまえてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.543576,35.749917</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 桜台駅前店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう さくらだいえきまえてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.661679,35.738788</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 栃木街道店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう とちぎかいどうてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.794867,36.422884</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 立川店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう たちかわてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.409562,35.696528</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 大宮店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう おおみやてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.626215,35.903412</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 千住大橋駅前店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう せんじゅおおはしえきまえてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.797077,35.742541</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 茨城守谷店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう いばらきもりやてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>140.000893,35.924015</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 湘南藤沢店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう しょうなんふじさわてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.482218,35.343043</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 西台駅前店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう にしだいえきまえてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.674715,35.78674</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 中山駅前店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう なかやまえきまえてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.538636,35.513033</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 新橋店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう しんばしてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.750568,35.665547</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 仙台店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう せんだいてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>140.866184,38.261654</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 赤羽店.</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう あかばねてん.</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.720768,35.779834</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 札幌店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう さっぽろてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>141.34395,43.067363</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 会津若松店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう あいづわかまつてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.931493,37.506645</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 JR西口蒲田店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう じぇいあーるにしぐちかまたてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.714562,35.563735</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
