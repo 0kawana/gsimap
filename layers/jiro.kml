@@ -320,5 +320,13 @@
         <coordinates>139.714562,35.563735</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>ラーメン二郎 新潟店</name>
+      <description><![CDATA[<table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らーめんじろう じにいがたてん</td></tr><tr><td colspan="2" nowrap><a href="" target="_blank">詳細</a></td></tr></table>]]></description>
+      <styleUrl>#SYMBOL_Style1</styleUrl>
+      <Point>
+        <coordinates>139.060065,37.917232</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
